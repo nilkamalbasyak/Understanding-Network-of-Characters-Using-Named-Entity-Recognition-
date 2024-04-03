@@ -1,4 +1,4 @@
-# Mahabharata Character Analysis
+# Understanding-Network-of-Characters-Using-Named-Entity-Recognition
 
 This project aims to analyze the relationships between characters in the Mahabharata, an ancient Indian epic, using natural language processing (NLP) techniques and network analysis. The analysis is performed using Python and various libraries such as SpaCy, NetworkX, BeautifulSoup, and pandas.
 
